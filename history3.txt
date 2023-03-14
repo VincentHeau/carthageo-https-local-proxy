@@ -1,0 +1,980 @@
+    1  sudo apt-get install ssh-server
+    2  sudo apt-get install openssh-server
+    3  ../lib/firefox/firefox.sh
+    4  cd ..
+    5  ls
+    6  ../lib/firefox/firefox.sh
+    7  sudo gpupdate
+    8  sudo apt-get gpupdate
+    9  sudo apt-get update
+   10  sudo apt-get upgrade
+   11  sudo apt-get update
+   12  sudo apt-get upgrade
+   13  sudo apt-get update
+   14  cd ..
+   15  ls
+   16  cd ..
+   17  cd..
+   18  cd ..
+   19  ls
+   20  cdetc
+   21  cd etc
+   22  ls
+   23  su
+   24  sudo vi sources.list
+   25  sudo apt-get update
+   26  sudo apt-get upgrade
+   27  ls /usr/share/applications | awk -F '.desktop' ' { print $1}'
+   28  sudo apt-get install pyrenamer
+   29  sudo apt-get install arduino
+   30  sudo apt-get install atom
+   31  sudo apt-get install cheese
+   32  sudo apt-get install compdE
+   33  sudo apt-get install comp3d5
+   34  sudo apt-get install eclipse
+   35  sudo apt-get install eog
+   36  sudo apt-get install evince
+   37  sudo apt-get install evince-previewer
+   38  sudo apt-get install file-roller
+   39  sudo apt-get install gedit
+   40  sudo apt-get install geoclue
+   41  sudo apt-get install geoclue-where-am-i
+   42  sudo apt-get install goggle
+   43  sudo apt-get install giggle
+   44  sudo apt-get install gpslabel-gui
+   45  sudo apt-get install gpslabel
+   46  gpslabel
+   47  sudo apt-get install gpslabel
+   48  sudo apt install gpslabel
+   49  sudo apt install gpsbabel
+   50  gpsbabel
+   51  gpsbabel-gui
+   52  gpsbabelfe
+   53  sudo apt install grass74
+   54  sudo apt install grsync
+   55  sudo apt install ibus-setup
+   56  sudo apt install ibus
+   57  sudo apt install meld
+   58  sudo apt install monteverdi
+   59  sudo apt install mount-archive
+   60  sudo apt install nautilus-classic
+   61  sudo apt install nautilus
+   62  py
+   63  cd etc/apt/sources.list
+   64  cd etc/apt/
+   65  cd..
+   66  cd etc/apt/
+   67  cd ./etc/apt/
+   68  ls
+   69  cd ..
+   70  cd. 
+   71  cd ..
+   72  ls
+   73  cd etc/apt/
+   74  ls
+   75  lv
+   76  nano
+   77  vi sources.list
+   78  sudo cp sources.list  ./etc/apt/
+   79  sudo cp sources.list  /etc/apt/
+   80  apt-get update
+   81  su apt-get update
+   82  sudo apt-get update
+   83  sudo apt-get upgrade
+   84  sudo apt-get update
+   85  sudo apt-get upgrade
+   86  sudo apt-get update
+   87  passwd formation
+   88  rm sources.list
+   89  sudo rm sources.list
+   90  ls
+   91  su vi
+   92  su
+   93  sudo vi sources.list
+   94  ren
+   95  rename
+   96  mv sources.list sources.list.save
+   97  mv sources.list sources.list.save2
+   98  sudo mv sources.list sources.list.save2
+   99  cp ~/Bureau/sources.list
+  100  cp ~/Bureau/sources.list ./etc/apt/sources.list
+  101  sudo cp ~/Bureau/sources.list ./etc/apt/sources.list
+  102  sudo cp sources.list ~/Bureau/sources.list ./etc/apt/
+  103  sudo cp sources.list ~/Bureau/sources.list /etc/apt/
+  104  sudo cp sources.list ~/Bureau/sources.list ./etc/apt/
+  105  cd ..
+  106  cd etc
+  107  cd apt
+  108  sudo
+  109  su
+  110  formation20202021
+  111  su
+  112  su formation
+  113  apt update
+  114  su apt update
+  115  sudo apt update
+  116  sudo apt upgrade
+  117  sudo apt update
+  118  sudo apt-get install 7zip
+  119  sudo apt-get install p7zip
+  120  sudo apt autoremove
+  121  sudo apt-get upgrade
+  122  sudo apt-get update
+  123  sudo apt-get install nvidia-cuda-toolkit
+  124  sudo apt-get install snmpd
+  125  sudo apt-get upgrade
+  126  sudo apt-get update
+  127  sudo apt-get upgrade
+  128  sudo apt-get update
+  129  sudo ap-get install cuda
+  130  sudo apt-get install cuda
+  131  sudo apt-get install nvidia-cuda
+  132  sudo apt-get install note
+  133  sudo apt-get install notepadplusplus
+  134  sudo apt  install notepadplusplus
+  135  sudo apt-get install nvidia-cuda-toolkit
+  136  sudo apt-get install snmpd
+  137  ufw status
+  138  su
+  139  su ufw status
+  140  sudo ufw status
+  141  sudo python3 setup.py install
+  142  pip3 list
+  143  pip3 list | grep gnss
+  144  sudo python3 install_Ubuntu_ENSG.py 
+  145  sudo apt autoremove --purge
+  146  proj
+  147  cct
+  148  cct --version
+  149  sudo sh remove_old_snap_versions.sh 
+  150  pdftk
+  151  sudo apt update
+  152  cloudcompare
+  153  ufw status
+  154  sudo ufw status
+  155  sudo python3 setup.py install
+  156  git clone https://gitlab.com/jbeilin/Latex_ENSG.git
+  157  ls
+  158  cd Latex_ENSG/l
+  159  cd Latex_ENSG/
+  160  ls
+  161  ll
+  162  sudo rm -rf install_ubuntu_ensg-master
+  163  sudo rm -rf pyalti-master
+  164  ll
+  165  ./teqc
+  166  ./teqc --version
+  167  ./teqc --vers
+  168  ./teqc --ver
+  169  ./teqc -ver
+  170  teqcgui
+  171  sh teqcGUI.sh 
+  172  ./teqcGUI.sh 
+  173  ls
+  174  cd ..
+  175  ls
+  176  sudo mv teqcgui /opt/.
+  177  /opt/teqcgui/teqcGUI.sh 
+  178  sudo nano /opt/teqcgui/teqcGUI.sh 
+  179  /opt/teqcgui/teqcGUI.sh 
+  180  sudo nano /opt/teqcgui/teqcGUI.sh 
+  181  /opt/teqcgui/teqcGUI.sh 
+  182  sudo nano /opt/teqcgui/teqcGUI.sh 
+  183  /opt/teqcgui/teqcGUI.sh 
+  184  /opt/teqcgui/teqc
+  185  /opt/teqcgui/teqc -ver
+  186  /opt/teqcgui/teqcGUI.sh 
+  187  cd /opt/teqcgui/
+  188  ls
+  189  ln -s /opt/teqcgui/teqcGUI.sh  /usr/bin/teqcgui.sh
+  190  sudo ln -s /opt/teqcgui/teqcGUI.sh  /usr/bin/teqcgui.sh
+  191  teqcgui
+  192  sudo ln -s /opt/teqcgui/teqcGUI.sh  /usr/bin/teqcgui
+  193  ifconfig
+  194  ls
+  195  ifconfig
+  196  teqc
+  197  sudo ln -s /opt/teqcgui/teqc /usr/bin/teqc
+  198  teqc
+  199  teqc --ver
+  200  teqc -ver
+  201  apt-get update
+  202  sudo apt-get update
+  203  sudo apt-get upgrade
+  204  sudo apt-get update
+  205  sudo apt-get upgrade
+  206  gksudo
+  207  sudoo gedit /etc/apt/sources.list
+  208  sudo gedit /etc/apt/sources.list
+  209  sudo apt-get update
+  210  sudo apt-get upgrade
+  211  sudo apt-get update
+  212  sudo gedit /etc/apt/sources.list
+  213  sudo apt-get update
+  214  sudo apt-get upgrade
+  215  sudo apt-get update
+  216  sudo gedit /etc/apt/sources.list
+  217  sudo apt-get install snapd
+  218  snap
+  219  snapd
+  220  locate snap
+  221  ls
+  222  cd snap/
+  223  ls
+  224  ls -l
+  225  cd snap-store/
+  226  ls
+  227  cd S18
+  228  ls
+  229  ls -l
+  230  cd 518
+  231  ls
+  232  cd ../..
+  233  ls
+  234  cd ..
+  235  ls
+  236  locate
+  237  sudo apt install mlocate
+  238  ls
+  239  find -name snap
+  240  cd /
+  241  find -name snap
+  242  ls
+  243  cd ho
+  244  cd home/
+  245  ls
+  246  cd formation/
+  247  ls
+  248  proj
+  249  ls
+  250  cd Téléchargements/
+  251  ls
+  252  mv esa-snap_sentinel_unix_8_0.sh ../Bureau/
+  253  ifconfig
+  254  proj
+  255  projD
+  256  proj4
+  257  java
+  258  java -version
+  259  postgre
+  260  postgresql
+  261  sudo snap install --classic code
+  262  ls
+  263  cd Téléchargements
+  264  ls
+  265  .\OpenJUMP-Installer-1.15-r6241-PLUS.jar
+  266  java -jar OpenJUMP-Installer-1.15-r6241-PLUS.jar
+  267  postgres
+  268  sudo apt update
+  269  sudo apt upgrade
+  270  ls
+  271  cd gdal-3.3.0/
+  272  ls
+  273  .\install.sh
+  274  .\install-shsh
+  275  .\install-sh
+  276  .\install-sh.sh
+  277  .\install-sh
+  278  sudo make install-sh
+  279  sudo apt-get update
+  280  /etc
+  281  cd /etc
+  282  cd apt
+  283  ls
+  284  vi sources.list
+  285  sudo vi sources.list
+  286  cls
+  287  sudo gedit sources.list
+  288  sudo apt-
+  289  sudo apt-get update
+  290  sudo gedit sources.list
+  291  sudo apt-get update
+  292  sudo apt-get upgrade
+  293  sudo apt-get update
+  294  sudo apt-get upgrade
+  295  reboot
+  296  synaptic
+  297  qgis
+  298  otb
+  299  ls
+  300  cd Téléchargements
+  301  cd ..
+  302  cd Bureau
+  303  ls
+  304  sudo
+  305  .\ esa-snap_sentinel_unix_8_0.sh
+  306  .\esa-snap_sentinel_unix_8_0.sh
+  307  sudo .\esa-snap_sentinel_unix_8_0.sh
+  308  sudo esa-snap_sentinel_unix_8_0.sh
+  309  sudo ./esa-snap_sentinel_unix_8_0.sh
+  310  lasttools
+  311  lastools
+  312  cd ..
+  313  cd opt
+  314  cd ./opt
+  315  cd ..
+  316  ls
+  317  cd opt
+  318  sudo mkdir OTB
+  319  ls
+  320  cp '/home/formation/Téléchargements/OTB-7.3.0-Linux64.run' 
+  321  cp '/home/formation/Téléchargements/OTB-7.3.0-Linux64.run'  ./opt/OTB/
+  322  cp '/home/formation/Téléchargements/OTB-7.3.0-Linux64.run'  ./opt/OTB
+  323  cp '/home/formation/Téléchargements/OTB-7.3.0-Linux64.run'  ./OTB/
+  324  sudo cp '/home/formation/Téléchargements/OTB-7.3.0-Linux64.run'  ./OTB/
+  325  cd OTB
+  326  ls
+  327  chmod +x OTB-7.3.0-Linux64.run
+  328  sudo chmod +x OTB-7.3.0-Linux64.run
+  329  ./OTB-7.3.0-Linux64.run
+  330  sudo ./OTB-7.3.0-Linux64.run
+  331  sudo /etc/bash.bashrc
+  332  sudo gedit /etc/bash.bashrc
+  333  otbgui_
+  334  otbgui
+  335  otbgui OTB-7.3.0-Linux64
+  336  otbgui_OTB-7.3.0-Linux64
+  337  otbgui OTB-7.3.0-Linux64
+  338  sudo gedit /etc/bash.bashrc
+  339  sudo apt-get upgrade
+  340  sudo apt-get update
+  341  sudo apt-get upgrade
+  342  reboot
+  343  mkdir $HOME/projects
+  344  cd $HOME/projects
+  345  git clone https://gitlab.orfeo.toolbox.org/orfeotoolbox/qgis-otb-plugin
+  346  export QGIS_PLUGINPATH=$HOME/projects/qgis-otb-plugin
+  347  sudo apt-get upgrade
+  348  sudo apt-get update
+  349  sudo apt-get upgrade
+  350  sudo apt-get update
+  351  sudo apt-get upgrade
+  352  reboot
+  353  sudo apt-fget upgrade
+  354  on20212022
+  355  sudo apt-get upgrade
+  356  sudo apt-get updaet
+  357  sudo apt-get update
+  358  sudo apt-get upgrade
+  359  sudo apt-get update
+  360  sudo apt-get upgrade
+  361  reboot
+  362  qgis
+  363  sudo su - postgres -c "psql -l"
+  364  sudo apt-get install postgresql-13
+  365  sudo apt-get insta
+  366  sudo apt -y install vim bash-completion wget
+  367  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+  368  echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" |sudo tee  /etc/apt/sources.list.d/pgdg.list
+  369  sudo apt update
+  370  sudo apt install postgresql-13
+  371  sudo apt install postgresql-13 postgresql-13-postgis-3 gdal-bin postgresql-server-dev-13 libgdal-dev
+  372  sudo su - postgres -c "psql -l"
+  373  uo s  otre - "sq - \crateetesonpsti;eetpoti_ulvrin()""
+  374  sudo su - postgres -c "psql -c \"create extension postgis; select postgis_full_version()\""
+  375  gis &
+  376  qgis &
+  377  gdalinfo --version
+  378  sudo apt-get update
+  379  sudo apt-get upgrade
+  380  sudo apt-get update
+  381  sudo apt-get upgrade
+  382  gdalinfo --version
+  383  sudo su - postgres -c "psql -l"
+  384  sudo
+  385  su
+  386  wget https://github.com/pramsey/pgsql-ogr-fdw/archive/master.zip && mv master.zip ogr_fdw.zip
+  387  unzip ogr_fdw.zip && cd pgsql-ogr-fdw-master/
+  388  make && sudo make install
+  389  sudo su - postgres -c "psql -c \"create extension ogr_fdw\""
+  390  sudo curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+  391  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+  392  sudo apt install pgadmin4-desktop
+  393  sudo apt-get upgrade
+  394  sudo apt-get update
+  395  reboot
+  396  sudo apt-get upgrade
+  397  sudo apt-get update
+  398  sudo apt-get upgrade
+  399  sudo apt-get update
+  400  sudo apt-get upgrade
+  401  sudo su - postegres -c "psql -l"
+  402  formation
+  403  sudo su - postegres -c "psql -l"
+  404  sudo su - postgres -c "psql -l"
+  405  sudo -u postgres psql
+  406  sudo apt-get upgrade
+  407  sudo apt-get update
+  408  sudo apt-get upgrade
+  409  mm3d
+  410  mm3d checkdependencies
+  411  mm3d
+  412  exit
+  413  su
+  414  sudo
+  415  sudo apt-get install git
+  416  cd ..
+  417  cd opt
+  418  ls
+  419  cd micmac
+  420  ls
+  421  cd script
+  422  sudo gedit /etc/bash.bashrc
+  423  mmd
+  424  mm3d
+  425  sudo gedit /etc/bash.bashrc
+  426  cd bin
+  427  ls
+  428  sudo gedit /etc/bash.bashrc
+  429  cd .
+  430  exit
+  431  /etc/init.d/cupsys restart
+  432  su
+  433  su /etc/init.d/cupsys restart
+  434  sudo /etc/init.d/cupsys restart
+  435  ping rks1306w321
+  436  ping 172.31.129.15
+  437  apt-get install smbclient
+  438  sudo apt-get install smbclient
+  439  ping 172.31.129.15
+  440  ping del1306n018
+  441  apt-get upgrade
+  442  sudo apt-get upgrade
+  443  sudo apt-get updade
+  444  sudo apt-get update
+  445  sudo apt-get upgrade
+  446  sudo apt autoremove
+  447  sudo apt-get upgrade
+  448  sudo apt-get update
+  449  sudo apt-get upgrade
+  450  sudo python3 setup.py install
+  451  sudo apt update
+  452  sudo apt upgrade
+  453  sudo apt autoremove --purge
+  454  cat /etc/apt/sources.list
+  455  sudo nano /etc/apt/sources.list
+  456  sudo apt update
+  457  sudo apt upgrade
+  458  sudo nano /etc/apt/sources.list
+  459  sudo apt update
+  460  sudo apt upgrade
+  461  wget -qO - https://qgis.org/downloads/qgis-2021.gpg.key | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/qgis-archive.gpg --import
+  462  sudo chmod a+r /etc/apt/trusted.gpg.d/qgis-archive.gpg
+  463  sudo apt update
+  464  sudo apt upgrade
+  465  sudo nano /etc/apt/sources.list
+  466  sudo apt update
+  467  sudo apt upgrade
+  468  sudo apt dist-upgrade
+  469  sudo nano /etc/apt/sources.list
+  470  sudo apt update
+  471  sudo nano /etc/apt/sources.list
+  472  sudo apt update
+  473  sudo nano /etc/apt/sources.list
+  474  sudo apt update
+  475  sudo nano /etc/apt/sources.list
+  476  sudo apt update
+  477  sudo apt upgrade
+  478  sudo apt autoremove --purge
+  479  sudo apt clean
+  480  otbgui_ColorMapping
+  481  sh monteverdi.sh 
+  482  sh mapla.sh 
+  483  sudo apt update
+  484  sudo apt upgrade
+  485  sudo apt update
+  486  sudo apt upgrade
+  487  ufw status
+  488  apt list -installed
+  489  sudo apt list -installed
+  490  sudo apt list
+  491  sudo apt list > ubuntu.txt
+  492  ls
+  493  dpkg --get-selections
+  494  dpkg --get-selections > ubuntu.txt
+  495  fdisk
+  496  fdisk --help
+  497  fdisk -l
+  498  sudo fdisk -l
+  499  sudo fdisk --help
+  500  sudo fdisk -l
+  501  /dev/sda
+  502  sudo /dev/sda
+  503  sudo mount /dev/sda
+  504  sudo fdisk -l /dev/sda
+  505  sudo mount /dev/sda
+  506  sudo mount /dev/sda1
+  507  sudo passwd root
+  508  passwd
+  509  sudo apt update
+  510  sudo apt upgrade
+  511  xvnc
+  512  xvncx11vnc
+  513  x11vnc
+  514  xvnc -storepasswd
+  515  x11vnc -storepasswd
+  516  x11vnc -rfbauth ~/.vnc/x11pass.vnc
+  517  cd downloads
+  518  cd Downloads
+  519  ls
+  520  cd Téléchargements
+  521  ls
+  522  sudo ./vnc-startup.sh
+  523  systemctl enable x11vnc
+  524  systemctl start x11vnc
+  525  netstat -pat
+  526  vi etc/systemd/system/x11vnc.service
+  527  sudo vi etc/systemd/system/x11vnc.service
+  528  ls
+  529  cd Téléchargements/
+  530  ls
+  531  sudo cp ./x11vnc.service /etc/systemd/system/
+  532  systemctl enable x11vnc
+  533  systemctl start x11vnc
+  534  netstat -pat
+  535  systemctl enable x11vnc
+  536  systemctl start x11vnc
+  537  netstat -pat
+  538  cd Téléchargements/
+  539  ./vnc-startup.sh
+  540  cd Téléchargements/
+  541  sudo ./vnc-startup.sh 
+  542  sudo systemctl enable x11vnc
+  543  sudo systemctl start x11vnc
+  544  netstat -pat
+  545  x11vnc
+  546  sudo vi etc/systemd/system/x11vnc.service
+  547  x11vnc -usepw 
+  548  sudo cp ./x11vnc.service /etc/systemd/system/
+  549  cd Téléchargements/
+  550  sudo cp ./x11vnc.service /etc/systemd/system/
+  551  sudo systemctl start x11vnc
+  552  systemctl daemon-reload
+  553  sudo systemctl start x11vnc
+  554  sudo apt-get upgrade
+  555  sudo apt-get update
+  556  sudo apt-get upgrade
+  557  x-special/nautilus-clipboard
+  558  cut
+  559  file:///home/formation/Bureau/formationTemp.desktop
+  560  ~/.local/share/application
+  561  sudo ~/.local/share/application
+  562  sudo apt-get upgrade
+  563  sudo apt-get update
+  564  sudo apt update
+  565  sudo apt upgrade
+  566  sudo apt autoremove --purge
+  567  sudo apt clean
+  568  proj
+  569  pip list | grep gnss
+  570  pip list | grep gps
+  571  sudo pip install --upgrade gpsdatetime
+  572  pip list | grep gps
+  573  otbgui_ColorMapping
+  574  jupyter notebook
+  575  sh mapla.sh
+  576  run otbenv.profile 
+  577  sudo apt upgrade
+  578  sudo apt update
+  579  sudo apt upgrade
+  580  sudo apt install --reinstall software-center
+  581  sudo apt install gnome-software
+  582  sudo apt clean
+  583  sudo apt update
+  584  killall gnome-software
+  585  sudo apt install --reinstall software-center
+  586  sudo apt install octave -y
+  587  sudo apt update
+  588  sudo apt upgrade
+  589  env
+  590  mmd
+  591  mm3d
+  592  cd /usr
+  593  ls
+  594  cd local
+  595  ls
+  596  cd ..
+  597  ls
+  598  cd local
+  599  ls
+  600  java
+  601  su
+  602  postgre
+  603  postgresql
+  604  postgres --version
+  605  postgis
+  606  postgresql
+  607  sudo apt install postgresql postgresql-contrib
+  608  postgre --version
+  609  postgresql --version
+  610  postgres --version
+  611  sudo -i -u postgres
+  612  sudo apt install postgis postgresql-14-postgis-3
+  613  ls
+  614  cd Téléchargements
+  615  ls
+  616  java -jar OpenJUMP-Installer-1.15-r6241-PLUS.jar 
+  617  sudo apt-get install libcanberra-gtk-module
+  618  java -jar OpenJUMP-Installer-1.15-r6241-PLUS.jar 
+  619  sudo apt-get install libcanberra-gtk-mod
+  620  ls
+  621  java -jar OpenJUMP-Installer-2.0-r5095\[a56ff6d\]-PLUS.jar 
+  622  '/home/formation/OpenJUMP-2.0-r5095[a56ff6d]-PLUS/bin/oj_linux.sh' 
+  623  ogrinfo --version
+  624  sudo apt-get install gdal-bin
+  625  ls
+  626  cd gdal3.5
+  627  cd gdal-3.5.0
+  628  ls
+  629  ./configure
+  630  cmake
+  631  make
+  632  sudo make install
+  633  gdal
+  634  ogrinfo --version
+  635  ls
+  636  ./install-sh
+  637  cmake
+  638  cmake --help
+  639  conda
+  640  cd build
+  641  mkdir build
+  642  cd build
+  643  cmake --build
+  644  cmake
+  645  cd make.
+  646  cd make .
+  647  cmake .
+  648  cd ..
+  649  cmake --build
+  650  cmake --build .
+  651  cd build
+  652  ls
+  653  cmake --build
+  654  cmake --build ~/Téléchargements/gdal-3.5.0/
+  655  cmake --build /Téléchargements/gdal-3.5.0/
+  656  cmake --build /usr/home/formation/Téléchargements/gdal-3.5.0/
+  657  cmake --build /home/formation/Téléchargements/gdal-3.5.0/
+  658  cd /usr
+  659  ls
+  660  cd /home
+  661  ls
+  662  ogrinfo
+  663  cd formation
+  664  cd Téléchargements
+  665  ls
+  666  cd gdal-3.5.0/
+  667  ls
+  668  su
+  669  gdalinfo --version
+  670  gdalinfo
+  671  sudo apt upgrade
+  672  sudo apt update
+  673  sudo apt upgrade
+  674  exit
+  675  cmake
+  676  cmake --target
+  677  cd Téléchargement
+  678  cd Téléchargements
+  679  cd gdal-3.5.0/
+  680  cd build
+  681  ls
+  682  cmake -- target install
+  683  cmake --target ./install
+  684  cmake --target /home/formation/Téléchargements/gdal-3.5.0/build/install
+  685  cd Téléchargements/
+  686  cd gdal-3.5.0/
+  687  cd build
+  688  make
+  689  sudo checkinstall
+  690  ls
+  691  sudo make install
+  692  gdalinfo --version
+  693  ogrinfo --version
+  694  sudo apt-get install gdal-bin
+  695  sudo add-apt-repository ppa:ubuntugis/ppa
+  696  sudo apt-get update
+  697  sudo apt-get install gdal-bin
+  698  ogrinfo --version
+  699  cd /host
+  700  cd disks
+  701  cd ubuntu
+  702  cd disks
+  703  ls
+  704  fallocate -l BG /swapfile
+  705  sudo fallocate -l 8G /swapfile
+  706  ls
+  707  edit /etc/fstab
+  708  cd /etc
+  709  cd fstab
+  710  ls
+  711  edit fstab
+  712  sudo vi fstab
+  713  apt get update
+  714  apt update
+  715  sudo apt update
+  716  sudo apt upgrade
+  717  sudo apt update
+  718  sudo apt upgrade
+  719  exit
+  720  LL
+  721  ll
+  722  psql
+  723  psql -h localhost -p 5433 -U postgres
+  724  sudo su postgres
+  725  formation20222023
+  726  sudo su postgres
+  727  sudo service postgresql
+  728  sudo service postgresql@14-main restart
+  729  psql -h localhost -p 5433 -U postgres
+  730  sudo apt install podtgresql-14-org-fdw
+  731  sudo apt install postgresql-14-org-fdw
+  732  sudo apt install postgresql-14-ogr-fdw
+  733  dir /B
+  734  cd /home/formation/Desktop
+  735  dir /B
+  736  ls
+  737  cd ..
+  738  ls
+  739  mv ensg.backup Desktop/pdm-2022-2023/2022-2023/lecture/
+  740  ls
+  741  le
+  742  ls
+  743  Desktop
+  744  cd desktoo
+  745  ls
+  746  mv Desktop/
+  747  cd Desktop/pdm-2022-2023/
+  748  psql -h localhost -p 5433 -U postgres -f ensg?backup.toto
+  749  cd..
+  750  cd ..
+  751  mm3d
+  752  mm3d Tapioca All ".*JPG" 1500 ExpTxt=1
+  753  mm3d Tapioca All ".*JPG" 1500
+  754  mm3d Tapas RadialStd ".*JPG" Out=Rocky
+  755  mm3d AperiCloud ".*JPG" Rocky
+  756  mm3d SaisieMasqQT AperiCloud_Rocky.ply
+  757  mm3d C3DC MicMac ".*JPG" Rocky Masq3D=AperiCloud_Rocky_selectionInfo.xml
+  758  sha1sum'/home/formation/Downloads/openssl-3.1.0-beta1.tar.gz.sha1'
+  759  clear
+  760  sha1sum'/home/formation/Downloads/openssl-3.1.0-beta1.tar.gz'
+  761  clear
+  762  sha1sum'/home/formation/Downloads/openssl-3.1.0-beta1.tar.gz.sha1'
+  763  sha1sum '/home/formation/Downloads/openssl-3.1.0-beta1.tar.gz.sha1'
+  764  sha1sum '/home/formation/Downloads/openssl-3.1.0-beta1.tar.gz'
+  765  clear
+  766  openssl rsa -in keypair.pem -pubout -out publickey.crt
+  767  cd/home/formation/Downloads/openssl-3.1.0-beta1.tar.gz
+  768  clear
+  769  /home/formation/Downloads/
+  770  cd /home/formation/Downloads/openssl-3.1.0-beta1.tar.gz
+  771  cd/home/formation/Downloads/
+  772  cd /home/formation/Downloads
+  773  openssl rsa -in keypair.pem -pubout -out publickey.crt
+  774  openssl pkcs8 -topk8 -inform PEM -outform PEM -nocrypt -in keypair.pem -out pkcs8.key
+  775  clear
+  776  openssl genrsa -out private.key 1024
+  777  openssl rsa -in private.key -pubout > public.key
+  778  ls -lrt
+  779  openssl enc -aes-256-cbc -salt -in /home/formation/Downloads/seeeeeemmmmfromsalvation -out /home/formation/Downloads -k ##AZ2023
+  780  openssl rsautl -encrypt -inkey public_joe.pem -publin -in mfromsalvation -out mfromsalvation.ssl
+  781  -help
+  782  cat sfromsalvation
+  783  cat mfromsalvation.txt
+  784  cat mfromsalvation
+  785  openssl rsautl -encrypt -inkey public_joe.pem -publin -in mfromsalvation -out mfromsalvation.enc
+  786  openssl rsautl -encrypt -inkey public_joe.pem -pubin -in mfromsalvation -out mfromsalvation.enc
+  787  cat mfromsalvation.enc
+  788  history
+  789  history > encrypy_decrypt.txt
+  790  cat
+  791  cat encrypy_decrypt.txt 
+  792  clear
+  793  sudo apt-get install wireshark
+  794  chmod + 755 burpsuite_pro_linux_v2022_12_6.sh
+  795  chmod +755 burpsuite_pro_linux_v2022_12_6.sh
+  796  chmod +755 burpsuite_community_linux_v2022_12_6.sh
+  797  sudo ./burpsuite_community_linux_v2022_12_6.sh
+  798  clear
+  799  fconfig
+  800  sudo fconfig
+  801  ifconfig
+  802  ping 172.31.58.140
+  803  ping 172.31.58.139
+  804  clear
+  805  sudo apt-get install john -y
+  806  john --help
+  807  john
+  808  JOHN
+  809  john
+  810  john single '/home/formation/Downloads/Lab3/users_accounts_MD5.txt' 
+  811  john users_accounts_MD5.txt' 
+  812  john users_accounts_MD5.txt' 
+  813  john crack users_accounts_MD5.txt
+  814  john users_accounts_MD5.txt
+  815  john users_accounts_sha1.txt
+  816  john
+  817  john users_accounts_sha256.txt
+  818  john --wordlist=users_accounts_sha256.txt
+  819  john --wordlist=10-million-password-list-top-1000000.txt --format=MD5 users_accounts_MD5.txt
+  820  john --wordlist=10-million-password-list-top-1000000.txt --format=md5crypt users_accounts_MD5.txt
+  821  rm ~/.john/john.pot 
+  822  john --wordlist=10-million-password-list-top-1000000.txt --format=md5crypt users_accounts_MD5.txt
+  823  more /etc/host
+  824  more /etc/hosts
+  825  vscode
+  826  vscode -h
+  827  vscode -v
+  828  visualstudiocode -h
+  829  visualstudio -h
+  830  code -h
+  831  code
+  832  sudo apt-get remove docker docker-engine docker.io containerd runc
+  833  sudo apt-get update
+  834  sudo apt-get install     ca-certificates     curl     gnupg     lsb-release
+  835  sudo mkdir -m 0755 -p /etc/apt/keyrings
+  836  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+  837  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+  838    $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+  839  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+  840  sudo docker run hello-world
+  841  sudo chmod a+r /etc/apt/keyrings/docker.gpg
+  842  sudo apt-get update
+  843  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+  844  sudo docker run hello-world
+  845  sudo apt-get update
+  846  sudo apt-get install docker-compose-plugin
+  847  docker compose version
+  848  Docker Compose version vN.N.N
+  849  docker run hello-world
+  850  sudo docker run hello-world
+  851  sudo run -it ubuntu bash
+  852  sudo docker run -it ubuntu bash
+  853  docker run hello-world
+  854  git clone https://github.com/elasticlabs/elabs-https-local-proxy
+  855  cd elabs-https-local-proxy
+  856  cd app/
+  857  ls
+  858  tree
+  859  sudo apt get install tree
+  860  sudo apt install tree
+  861  tree
+  862  sudo apt install glances
+  863  glances
+  864  tree
+  865  glances
+  866  nano makefile
+  867  docker run geoserver
+  868  docker pull docker.osgeo.org/geoserver:2.22.0
+  869  docker run -it -p 80:8080 docker.osgeo.org/geoserver:2.22.0
+  870  nano makefile
+  871  make build
+  872  ls
+  873  make up
+  874  tree
+  875  make build
+  876  docker run -it -p 80:8080 docker.osgeo.org/geoserver:2.22.0
+  877  docker run     -v /path/to/root:/srv     -v /path/filebrowser.db:/database.db     -v /path/.filebrowser.json:/.filebrowser.json     -u $(id -u):$(id -g)     -p 8080:80     filebrowser/filebrowser
+  878  nano makefile
+  879  vi makefile
+  880  more .env
+  881  more .env-changeme 
+  882  mv .env-changeme .env
+  883  tree
+  884  tree -a
+  885  ls -lisa
+  886  make build
+  887  make up
+  888  make set-hosts
+  889  docker stats
+  890  glances
+  891  history
+  892  1  sudo apt-get install ssh-server
+  893  ls
+  894  ls -lisa
+  895  docker run -it -p 80:8080 docker.osgeo.org/geoserver:2.22.0
+  896  docker pull docker.osgeo.org/geoserver:2.22.0
+  897  docker run -it -p 80:8080 docker.osgeo.org/geoserver:2.22.0
+  898  docker pull geosolutionsit/geoserver
+  899  docker run -it -p 90:90 geosolutionsit/geoserver
+  900  docker rm $(docker ps -a -f status=exited -f status=created -q)
+  901  docker run helloworld
+  902  docker run -it helloworld
+  903  docker run hello-world
+  904  docker pull geosolutionsit/geoserver
+  905  docker run -it -p 90:90 geosolutionsit/geoserver
+  906  docker run -p 8080:8080 geosolutionsit/geoserver
+  907  docker -help
+  908  docker run -help
+  909  docker run --help
+  910  wget https://github.com/wagoodman/dive/releases/download/v0.9.2/dive_0.9.2_linux_amd64.deb
+  911  sudo apt install ./dive_0.9.2_linux_amd64.deb
+  912  docker images ls
+  913  docker images 
+  914  dive e652dc5e63f0
+  915  docker stop gs
+  916  docker sytem 
+  917  docker system
+  918  docker system --help
+  919  docker system df
+  920  docker system prune 
+  921  docker system prune
+  922  docker system prune -a
+  923  ls  /var/lib/docker/volumes/datadir/_data
+  924  cd  /var/lib/docker/volumes/datadir/_data
+  925  ls  /var/lib/docker/volumes/datadir/_data
+  926  docker run  -p 8080:8080 geosolutionsit/geoserver
+  927  history > history2.txt
+  928  sudo apt-get install cmatrix
+  929  cmatrix
+  930  sl -a
+  931  sl --help
+  932  sl -F
+  933  sl -l
+  934  docker system df
+  935  ls var/lib/docker/volumes/datadir/_data
+  936  las  /var/lib/docker/volumes/datadir/_data
+  937  ls  /var/lib/docker/volumes/datadir/_data
+  938  sudo ls /var/lib/docker/volumes/datadir/_data
+  939  sudo apt install fortune
+  940  fortune
+  941  sudo apt install xcowsay
+  942  xcowsay I Love nix
+  943  xcowsay I Love matthieu
+  944  vim
+  945  code
+  946  cd ..
+  947  git clone https://gitlab.com/vincent.heau/docker.git
+  948  cd docker
+  949  git checkout main
+  950  cd ..
+  951  rm docker
+  952  sudo rm docker
+  953  git clone https://gitlab.com/vincent.heau/cours-docker-carthageo.git
+  954  https://gitlab.com/vincent.heau/cours-carthgeo-docker.git
+  955  git clone https://gitlab.com/vincent.heau/cours-carthgeo-docker.git
+  956  sudo rm docker
+  957  sudo rm -rf docker
+  958  cd cours-carthgeo-docker
+  959  git clone https://github.com/elasticlabs/elabs-https-local-proxy.git
+  960  sudo rm -rf elabs-https-local-proxy/
+  961  cd ..
+  962  git clone https://github.com/VincentHeau/carthageo-https-local-proxy.git
+  963  ll
+  964  mkdir Apps
+  965  mv carthageo-https-local-proxy Apps/
+  966  rm cours-carthgeo-docker/
+  967  rm -rf cours-carthgeo-docker/
+  968  cp elabs-https-local-proxy/.env Apps/carthageo-https-local-proxy/
+  969  cp elabs-https-local-proxy/makefile Apps/carthageo-https-local-proxy/
+  970  cd elabs-https-local-proxy/
+  971  make
+  972  make hard-cleanup 
+  973  docker ps
+  974  cd ..
+  975  rm -rf elabs-https-local-proxy/
+  976  cd Apps/
+  977  cd carthageo-https-local-proxy/
+  978  make up
+  979  make set-hosts
+  980  history > history3.txt
